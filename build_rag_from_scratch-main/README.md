@@ -1,4 +1,4 @@
-# Building RAG from scratch
+## Building RAG from scratch
 The goal is to build Retrival Augmented Generation (RAG) pipeline from scratch without using LLMs and Llama inorder to grasp the inner workings and essential mechanisms used in building RAG pipeline.
 
 ## Directories
@@ -8,8 +8,5 @@ The goal is to build Retrival Augmented Generation (RAG) pipeline from scratch w
 - **Point to note**: You need OpenAI api key to visualize response from LLM. If you have OpenAI api key then uncomment line 218 and 219 to visualize response.
 
 ## Usage
-
-- Run the main.py script using the following command. 
-   ```
-   python3 main.py
-   ```     
+Run the main.py script using the following command.
+python main.py  
